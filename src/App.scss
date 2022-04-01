@@ -1,0 +1,20 @@
+$primary: #FB7413;
+$dark: #1C222C;
+$secondary: #262F37;
+
+@import "~bootstrap/scss/bootstrap";
+
+.card {
+    padding: 2rem;
+}
+.rounded {
+    border-radius: 1rem !important;
+    max-width: 400px;
+    min-width: 315px;
+}
+.card-body {
+    padding: 0;
+}
+.text-warning {
+    color: #FB7413 !important;
+}

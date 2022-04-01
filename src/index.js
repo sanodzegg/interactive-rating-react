@@ -1,10 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './App';
+import Rate from './Rate.js';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <Rate />
   </React.StrictMode>,
   document.getElementById('root')
 );
